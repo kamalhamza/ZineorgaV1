@@ -1,0 +1,131 @@
+.emp{
+  
+    
+    margin-left: 3vh;
+    
+
+}
+.ctg{
+    margin-left: 30;
+}
+.flex{
+    flex: 1;
+}
+.circle {
+    margin-top: 3vh;
+    padding: 1vh;
+    width: 100px;
+    height: 100px;
+    background: #393e46;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border:10px;
+    
+    
+    
+    -webkit-box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2); 
+    box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2);
+}
+
+.donneegreen{
+    background-color: #81b214;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border:5px;
+    -webkit-box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2); 
+    box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2);
+    flex-direction: column;
+    height:78px;
+    font-size: 8px;
+    margin-left: 50px;
+    width: 78px;
+    padding: 5px;
+    
+}
+.donneered{
+    background-color: #cf0000;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border:5px;
+    -webkit-box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2); 
+    box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2);
+    flex-direction: column;
+    height:78px;
+    font-size: 8px;
+    margin-left: 50px;
+    width: 78px;
+    padding: 5px;
+}
+.donneegrey{
+    background-color: #393e46;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border:5px;
+    -webkit-box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2); 
+    box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2);
+    flex-direction: column;
+    height:78px;
+    font-size: 8px;
+    margin-left: 50px;
+    width: 78px;
+    padding: 5px;
+    
+}
+.donnee{
+    background-color: grey;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border:5px;
+    -webkit-box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2); 
+    box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.2);
+    flex-direction: column;
+    height:78px;
+    font-size: 8px;
+    margin-left: 50px;
+    width: 78px;
+    padding: 5px;
+}
+
+
+.donnetitle{
+    font-size: 12px;
+    margin-top: 10px;
+    color:white;
+
+}
+.containedonne{
+    flex-direction: row;
+}
+.containerdonnee{
+    width: 780px;
+    flex-direction: column;
+}
+.fiche{
+    background-color:#393e46;
+    color: white;
+    border-radius: 5px;
+    -webkit-box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.6); 
+    box-shadow: 12px 14px 16px -11px rgba(0,0,0,0.6);
+}
+.txtcircle{
+    
+    font-size:18px;
+    color: white;
+}
+.txtcircletitle{
+    
+    font-size:11px;
+    color: white;
+}
+li{
+    font-size: 12px;
+    
+}
+cardheight{
+   
+}

@@ -1,0 +1,34 @@
+.emp{
+    
+    
+    flex: 1;
+    justify-self: center;
+    
+    
+}
+.containerr {
+    margin-top: 10px;
+    margin-left: 120px;
+    width: 75%;
+    height: 130%;
+    
+    padding: 5px;
+    
+}
+.bod{
+    flex: 1;
+    display: 'flex';
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  height: 100%;
+    
+}
+
+
+.colwidth{
+    background-color: white;
+    border-radius: 20px;
+    
+    
+}
