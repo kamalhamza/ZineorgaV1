@@ -35,7 +35,7 @@ function Acceuil() {
       </div>
       </Link>
       
-      <Link >
+      <Link to='/organigramme/blekis/canaux/gros'>
       <div className='btnchoix3'>
         <p className='textbtn'>Gros
         <p style={{fontSize:12,fontWeight:400}}>Blekis et Al Itkane</p>
